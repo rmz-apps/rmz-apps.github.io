@@ -1,3 +1,4 @@
+google.com, pub-7209673035983624, DIRECT, f08c47fec0942fa0
 dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
